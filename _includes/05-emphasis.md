@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+
+_have a brief knowlegde about html5_
+
+__Interested in learning web and app development__
+
